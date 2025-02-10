@@ -1,5 +1,7 @@
 # Artificial Intelligence Classes
 
+- You can use any IDE, we suggest using [`Google Colab`](https://colab.research.google.com/) as it requires no set up.
+
 ## Notebooks:
 Practice Notebooks without solution
   - Week 1:
