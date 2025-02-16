@@ -5,7 +5,10 @@
 ## Notebooks:
 Practice Notebooks without solution
   - Week 1:
-    - [`python_revision_student.ipynb`](https://github.com/tgvp/ai/blob/main/Week%201/python_revision_student.ipynb) 
+    - [`python_revision_student.ipynb`](https://github.com/tgvp/ai/blob/main/Week%201/python_revision_student.ipynb)
+  
+  - Week 2:
+    - [`turing-machine-student.ipynb`](https://github.com/tgvp/ai/blob/main/Week%202/week-2-turing-machine-student.ipynb)
 
 ## Solutions:
 Solutions will be only avaialable a week after
