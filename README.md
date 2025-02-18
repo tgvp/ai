@@ -11,6 +11,9 @@ Practice Notebooks without solution
     - [`turing-machine-student.ipynb`](https://github.com/tgvp/ai/blob/main/Week%202/week-2-turing-machine-student.ipynb)
 
 ## Solutions:
-Solutions will be only avaialable a week after
+Solutions will be only avaialable a week after working the practical notebook in classroom.
 
   - Week 1:
+    - 
+  - Week 2:
+    - 
