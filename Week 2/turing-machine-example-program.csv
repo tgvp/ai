@@ -3,6 +3,6 @@ symbol;state;write;move;new-state
 0;q1;_;R;q0
 1;q0;_;R;q0
 1;q1;_;R;q1
-_;q0;0;L;qf
-_;q1;1;L;qf
-_;qf;;;
+B;q0;0;L;qf
+B;q1;1;L;qf
+B;qf;;;
