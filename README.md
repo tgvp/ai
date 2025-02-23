@@ -16,4 +16,4 @@ Solutions will be only avaialable a week after working with the practical notebo
   - Week 1:
     - 
   - Week 2:
-    - 
+    - [`turing_machine_solution.ipynb`](https://github.com/tgvp/ai/blob/main/Week%202/week_2_turing_machine_solution.ipynb)
