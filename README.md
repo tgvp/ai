@@ -11,6 +11,8 @@ Practice Notebooks without solution
     - [`turing-machine-student.ipynb`](https://github.com/tgvp/ai/blob/main/Week%202/week-2-turing-machine-student.ipynb)
 
   - Week 3:
+
+    - [`Practical 2`](https://github.com/tgvp/ai/blob/main/Week%203/Practical_2_NeuralNets.pdf)
     - [`Neural Networks Simulator`](https://www.jmeiners.com/neural-nets-sim/) 
     - [`neural_nets_student.ipynb`](https://github.com/tgvp/ai/blob/main/Week%203/week_3_neural_nets_student.ipynb)
 
