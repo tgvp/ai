@@ -23,3 +23,6 @@ Solutions will be only avaialable a week after working with the practical notebo
     - 
   - Week 2:
     - [`turing_machine_solution.ipynb`](https://github.com/tgvp/ai/blob/main/Week%202/week_2_turing_machine_solution.ipynb)
+  
+  - Week 3:
+    - [`Practical Solution`](https://github.com/tgvp/ai/blob/main/Week%203/Practical_2_solution.pdf)
