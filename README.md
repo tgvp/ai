@@ -16,6 +16,9 @@ Practice Notebooks without solution
     - [`Neural Networks Simulator`](https://www.jmeiners.com/neural-nets-sim/) 
     - [`neural_nets_student.ipynb`](https://github.com/tgvp/ai/blob/main/Week%203/week_3_neural_nets_student.ipynb)
 
+  - Week 4:
+    - [`hippies_punks_student.ipynb`](https://github.com/tgvp/ai/blob/main/Week%204/hippies_punks_student.ipynb)
+
 ## Solutions:
 Solutions will be only avaialable a week after working with the practical notebook in classroom.
 
