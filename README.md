@@ -19,6 +19,10 @@ Practice Notebooks without solution
   - Week 4:
     - [`hippies_punks_student.ipynb`](https://github.com/tgvp/ai/blob/main/Week%204/hippies_punks_student.ipynb)
 
+  - Week 5:
+    - [`Substack post about Artificial General Intelligence`](https://themeaningmachine.substack.com/p/llms-and-artificial-general-intelligence)
+    - [`Podcast`](https://www.santafe.edu/culture/podcasts)
+
 ## Solutions:
 Solutions will be only avaialable a week after working with the practical notebook in classroom.
 
