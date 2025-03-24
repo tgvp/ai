@@ -22,6 +22,9 @@ Practice Notebooks without solution
   - Week 5:
     - [`Substack post about Artificial General Intelligence`](https://themeaningmachine.substack.com/p/llms-and-artificial-general-intelligence)
     - [`Podcast`](https://www.santafe.edu/culture/podcasts)
+  
+  - Week 6:
+    - [`bfs_dfs_student.ipynb`](https://github.com/tgvp/ai/blob/main/Week%206/bfs_dfs_student.ipynb)
 
 ## Solutions:
 Solutions will be only avaialable a week after working with the practical notebook in classroom.
