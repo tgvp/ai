@@ -2,6 +2,10 @@
 
 - You can use any IDE, we suggest using [`Google Colab`](https://colab.research.google.com/) as it requires no set up.
 
+## Aula 07/05/2025 - 16h
+- [`Link Zoom`](https://videoconf-colibri.zoom.us/j/97967103651?pwd=eUO19bh7mYxHZStghCo8pbGOIYX0Lj.1)
+    `Password`: `252695`
+
 ## Notebooks:
 Practice Notebooks without solution
   - Week 1:
@@ -32,7 +36,7 @@ Practice Notebooks without solution
     - [`Extra`](https://github.com/tgvp/ai/blob/main/Week%207/dijikstra_extra_student.ipynb)
 
 ## Solutions:
-Solutions will be only avaialable a week after working with the practical notebook in classroom.
+Solutions will be only available a week after working with the practical notebook in classroom.
 
   - Week 1:
     - 
