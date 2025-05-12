@@ -2,6 +2,9 @@
 
 - You can use any IDE, we suggest using [`Google Colab`](https://colab.research.google.com/) as it requires no set up.
 
+## Aula 12/05/2024 - 12h
+- [`Link zoom`](https://videoconf-colibri.zoom.us/my/thiago.paiva)
+
 ## Aula 07/05/2025 - 16h
 - [`Link Zoom`](https://videoconf-colibri.zoom.us/j/97967103651?pwd=eUO19bh7mYxHZStghCo8pbGOIYX0Lj.1)
     `Password`: `252695`
