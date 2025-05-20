@@ -45,10 +45,10 @@ Practice Notebooks without solution
     - [`practical_nlp_1.ipynb`](https://github.com/tgvp/ai/blob/main/Week%2011/practical_nlp_1.ipynb)
    
   - Week 12:
-    - [`practical nlp_2`](https://github.com/tgvp/ai/blob/main/Week%2012/practical_nlp_2.ipynb)
+    - [`practical nlp_2.ipynb`](https://github.com/tgvp/ai/blob/main/Week%2012/practical_nlp_2.ipynb)
 
   - Week 13:
-    - [`practical nlp_3`](https://github.com/tgvp/ai/blob/main/Week%2013/practical_nlp_3.ipynb)
+    - [`practical nlp_3.ipynb`](https://github.com/tgvp/ai/blob/main/Week%2013/practical_nlp_3.ipynb)
 
 ## Solutions:
 Solutions will be only available a week after working with the practical notebook in classroom.
