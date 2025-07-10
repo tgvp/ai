@@ -37,6 +37,7 @@ Practice Notebooks without solution
     - [`dijikstra_student.ipynb`](https://github.com/tgvp/ai/blob/main/Week%207/djikstra-student.ipynb)
     - [`Video`](https://www.youtube.com/watch?v=EFg3u_E6eHU)
     - [`Extra`](https://github.com/tgvp/ai/blob/main/Week%207/dijikstra_extra_student.ipynb)
+    - [`A*`](https://github.com/tgvp/ai/blob/main/Week%207/a_star.py) [`Solution`](https://github.com/tgvp/ai/blob/main/Week%207/a_star.png)
   
   - Week 9:
     - [`practical_minimax.ipynb`](https://github.com/tgvp/ai/blob/main/Week%209/practical_minimax.ipynb)
