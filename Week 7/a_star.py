@@ -110,17 +110,18 @@ def plot_grid_with_path_and_table(grid, path):
     table.set_fontsize(9)
     axs[1].set_title("Tabela de g, h, f")
     plt.tight_layout()
+    plt.savefig('a_star.png', format='png') 
     plt.show()
 
 if __name__ == "__main__":
     grid = np.array([
         [0, 0, 0, 0, 0, 0, 0, 0],
-        [0, 0, 0, 1, 1, 0, 0, 0],
+        [0, 0, 0, 1, 1, 0, 1, 3],
         [0, 0, 0, 1, 1, 0, 0, 0],
         [0, 0, 0, 0, 0, 0, 0, 0],
         [0, 0, 0, 1, 1, 0, 0, 0],
         [0, 0, 0, 1, 1, 0, 0, 0],
-        [0, 2, 0, 1, 1, 3, 0, 0],
+        [0, 2, 0, 1, 1, 0, 0, 0],
         [0, 0, 0, 1, 1, 0, 0, 0],
         [0, 0, 0, 1, 1, 0, 0, 0],
     ])
